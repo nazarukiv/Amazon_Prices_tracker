@@ -1,0 +1,2 @@
+print("Amazon Prices Tracker")
+
